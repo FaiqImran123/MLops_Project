@@ -1,0 +1,9 @@
+Create template.py to generate Folder Structure
+Create venv and downlaod libraries
+
+-- Mongodb Setup --
+Login to MoongodbAtlas
+Create acc , project thrn make cluster
+Create db user set username and password
+Add 0.0.0.0/0 to network access
+Get Connection String 
